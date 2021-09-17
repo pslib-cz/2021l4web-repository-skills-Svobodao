@@ -2,10 +2,10 @@
 
 [info](info.html)
 
-**Změna** | **Popis**
--------- | ---------
-16.9. | Vytvořeno html
-17.9. | přidáno info
+**Změna**|**Popis**
+:-----:|:-----:
+16.9. ‘21|vytvořeno
+17.9. ‘21|přidáno info
 
 Ukázka jak funguje HTML:
 ```html
@@ -17,7 +17,8 @@ Ukázka jak funguje HTML:
         <div>
             oblíbený tag pana Boháčka
         </div>
-    <html>
+    </body>
+<html>
 ```
 
 Obsahuje zatím:
