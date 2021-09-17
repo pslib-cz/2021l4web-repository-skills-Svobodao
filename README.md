@@ -1,4 +1,18 @@
 # Můj super web
+
+[info](info.html)
+
+**Změna** | **Popis**
+-------- | ---------
+16.9. | Vytvořeno html
+17.9. | přidáno info
+
+Ukázka jak funguje HTML:
+``<html>``
+``  <head>``
+``  </head>``
+``<html>``
+
 Obsahuje zatím:
 * Ahoj světe
 * Základ design
@@ -11,11 +25,5 @@ Obsahuje zatím:
     2. dva
     3. tři
 
-Header | Header
--------- | ---------
-Obsah | Obsah
-Obsah | Obsah
-
 ![tf](/images/tf.png)
 [Problem?](https://therickroll.com/)
-
