@@ -1,6 +1,6 @@
 # Můj super web
 
-[info](info.html)
+[info](https://pslib-cz.github.io/2021l4web-repository-skills-Svobodao/)
 
 **Změna**|**Popis**
 :-----:|:-----:
