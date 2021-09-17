@@ -8,10 +8,16 @@
 17.9. | přidáno info
 
 Ukázka jak funguje HTML:
-``<html>``
-``  <head>``
-``  </head>``
-``<html>``
+```html
+<html>
+    <head>
+        <title>ahoj</title>
+    </head>
+    <body>
+        <div>
+            oblíbený tag pana Boháčka
+        </div>
+    <html>```
 
 Obsahuje zatím:
 * Ahoj světe
