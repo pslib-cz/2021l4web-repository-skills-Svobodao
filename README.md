@@ -17,7 +17,8 @@ Ukázka jak funguje HTML:
         <div>
             oblíbený tag pana Boháčka
         </div>
-    <html>```
+    <html>
+```
 
 Obsahuje zatím:
 * Ahoj světe
